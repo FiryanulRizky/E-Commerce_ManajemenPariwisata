@@ -1,0 +1,207 @@
+div.container {
+	grid-area: body;
+  	background-color: #f7f7f7;
+  	height: 265px;
+  	position: relative;
+}
+
+div.box_informasi {
+  	background-color: white;
+    height: 1238px;
+    width: 84%;
+    position: relative;
+    top: -34px;
+    left: 85px;
+    border-radius: 15px;
+}
+
+div.acom_content {
+  position: relative;
+  width: 67%;
+  height: 871px;
+  left: 337px;
+  top: 19px;
+}
+
+div.acom_content table {
+  background: white;
+  position: relative;
+  width: 88%;
+  top: -240px;
+  border:solid #000 !important;
+  border-width: 1px 0 1px 0 !important;
+}
+
+div.acom_content table tr td b {
+  position: relative;
+  color: blue;
+  top: -15px;
+  font-size: 18px;
+}
+
+div.booking1 {
+  	background-color: #2491cf;
+  	height: 295px;
+  	width: 52%;
+  	position: relative;
+  	top: 12px;
+  	left: 14px;
+  	border-radius: 15px;
+}
+
+div.booking1 table {
+  	height: 106px;
+  	width: 95%;
+  	position: relative;
+  	top: -130px;
+  	left: 10px;
+  	border-radius: 15px;
+}
+
+div.booking1 table tr td h2 {
+  	color: white;
+  	text-align: left;
+  	margin-top: 10px;
+  	margin-bottom: -8px;
+}
+
+div.booking1 table tr td p {
+	color: white;
+  	text-align: left;
+  	margin-bottom: -12px;
+}
+
+div.booking1 table tr td input {
+	background: #c2e0f1;
+  	text-align: left;
+  	top: 19px;
+  	position: relative;
+}
+
+div.booking1 table tr td p b {
+	color: yellow;
+  	text-align: left;
+  	top: 18px;
+    width: 54%;
+  	position: relative;
+}
+
+div.booking1 table tr td p button {
+	background: #0080aa;
+	color: white;
+	height: 35px;
+	width: 50%;
+  	text-align: center;
+  	top: 32px;
+  	position: relative;
+}
+
+div.iklan1 {
+  	background-color: #f7f7f7;
+  	float: right;
+  	height: 289px;
+  	width: 44%;
+  	position: relative;
+  	top: -283px;
+  	right: 14px;
+  	border-radius: 15px;
+}
+
+div.iklan1 table {
+  	float: right;
+  	height: 280px;
+  	width: 98%;
+  	position: relative;
+  	top: -8px;
+  	right: 2px;
+  	border-radius: 15px;
+}
+
+div.iklan1 table tr td {
+  	border:solid #000 !important;
+  	border-width: 0 0 1px 0 !important;
+}
+
+div.iklan1 table tr td img {
+  	height: 102px;
+  	width: 100%;
+  	position: relative;
+  	top: 0px;
+  	left: -2px;
+}
+
+div.left_info {
+    background-color: #f7f7f7;
+    height: 317px;
+    width: 28%;
+    position: absolute;
+    top: 338px;
+    left: 11px;
+    border-radius: 15px;
+    border-style: solid;
+    border-width: 0.5px;
+    border-color: lightgray;
+}
+
+div.left_info table {
+    height: 230px;
+    width: 70%;
+    position: absolute;
+    top: 70px;
+    left: 15px;
+    padding-top: 1px;
+}
+
+div.left_info_label1 {
+    background-color: #0080aa;
+    height: 60px;
+    width: 100%;
+    position: absolute;
+    top: -1px;
+    left: 0px;
+}
+
+div.left_info_label1 h3 {
+    color: white;
+    position: relative;
+    text-align: center;
+    margin-top: 17px;
+}
+
+div.left_info2 {
+    background-color: #f7f7f7;
+    height: 158px;
+    width: 28%;
+    position: absolute;
+    top: 692px;
+    left: 11px;
+    border-radius: 15px;
+    border-style: solid;
+    border-width: 0.5px;
+    border-color: lightgray;
+}
+
+div.left_info2 table {
+    height: 56px;
+    width: 96%;
+    position: absolute;
+    top: 70px;
+    left: 6px;
+    padding-top: 1px;
+}
+
+div.left_info2_label1 {
+    background-color: #0080aa;
+    height: 60px;
+    width: 100%;
+    position: absolute;
+    top: -1px;
+    left: 0px;
+}
+
+div.left_info2_label1 h3 {
+    color: white;
+    position: relative;
+    text-align: center;
+    margin-top: 17px;
+}

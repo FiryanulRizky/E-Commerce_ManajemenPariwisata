@@ -1,0 +1,68 @@
+div#footer {
+	ggrid-area: footer;
+	background: white;
+    padding: 0px;
+    position: relative;
+    width: 100%;
+    text-indent: 0px;
+    bottom: -974px;
+}
+
+div#footer_nav {
+	position: relative;
+	width: 100%;
+}
+
+div#footer_nav table {
+	text-align: center;
+	position: relative;
+	width: 78%;
+	color:#002bff;
+}
+
+div#footer_nav table tr td {
+	border:solid #000 !important;
+	border-width: 0 1px 0 0 !important;
+}
+
+div#footer_nav table tr td img {
+	position: relative;
+	top: 3px;
+	width: 117px;
+	height: 75px;
+	left: -17px;
+	padding-left: 2em;
+}
+div#disclaimer h3 {
+	position: relative;
+	background: #f7f7f7;
+	bottom: 16px;
+	float: left;
+	left: 32px;
+}
+ 
+div#disclaimer select {
+	position: relative;
+	float: left;
+	left: 340px;
+	bottom: -38px;
+	width: 11%; 
+	height: 30px; 
+}
+
+div#disclaimer table {
+	position: relative;
+	background: #f7f7f7;
+	width: 44%;
+	float: left;
+	bottom: -92px;
+	left: 70px;
+	margin-right: 15px;
+}
+
+div#disclaimer table tr td {
+	font-size: 14px;
+	border:solid #000 !important;
+	border-width: 0 1px 0 0 !important;
+	padding-right: 0.5em;
+}
